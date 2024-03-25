@@ -27,7 +27,7 @@ author:
  -
     fullname: "LIQI"
     organization: ZGCLab
-    email: "59596741+liqi16@users.noreply.github.com"
+    email: "liq23@mail.zgclab.edu.cn"
 
 normative:
 
