@@ -4,7 +4,7 @@ abbrev: "vro"
 category: info
 
 docname: draft-li-sidrops-vro-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: IETF 
 number:
 date:
 consensus: true
