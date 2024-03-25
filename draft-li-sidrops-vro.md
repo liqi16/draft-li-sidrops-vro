@@ -26,7 +26,7 @@ venue:
 author:
  -
     fullname: "LIQI"
-    organization: Your Organization Here
+    organization: ZGCLab
     email: "59596741+liqi16@users.noreply.github.com"
 
 normative:
