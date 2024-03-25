@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Verifiable Routing Origin"
+abbrev: "vro"
 category: info
 
 docname: draft-li-sidrops-vro-latest
