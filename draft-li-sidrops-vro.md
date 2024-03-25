@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Operations and Management"
+workgroup: "SIDR Operations"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "SIDR Operations"
+  type: "Working Group"
+  mail: "sidrops@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/sidrops/"
+  github: "liqi16/draft-li-sidrops-vro"
+  latest: "https://liqi16.github.io/draft-li-sidrops-vro/draft-li-sidrops-vro.html"
 
 author:
  -
