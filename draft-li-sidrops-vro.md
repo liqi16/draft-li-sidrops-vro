@@ -4,7 +4,7 @@ abbrev: "vro"
 category: info
 
 docname: draft-li-sidrops-vro-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: IETF
 number:
 date:
 consensus: true
@@ -26,8 +26,8 @@ venue:
 author:
  -
     fullname: "LIQI"
-    organization: Your Organization Here
-    email: "59596741+liqi16@users.noreply.github.com"
+    organization: ZGCLab
+    email: "liq23@mail.zgclab.edu.cn"
 
 normative:
 
