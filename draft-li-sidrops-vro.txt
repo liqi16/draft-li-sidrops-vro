@@ -3,7 +3,7 @@
 
 
 SIDR Operations                                                     LIQI
-Internet-Draft                                    Your Organization Here
+Internet-Draft                                                    ZGCLab
 Intended status: Informational                             25 March 2024
 Expires: 26 September 2024
 
@@ -111,5 +111,5 @@ Acknowledgments
 Author's Address
 
    LIQI
-   Your Organization Here
-   Email: 59596741+liqi16@users.noreply.github.com
+   ZGCLab
+   Email: liq23@mail.zgclab.edu.cn
