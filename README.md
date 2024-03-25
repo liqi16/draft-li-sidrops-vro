@@ -1,4 +1,6 @@
-# VRO Draft
+# Verifiable Routing Origin
+
+This is the working area for the individual Internet-Draft, "Verifiable Routing Origin".
 
 * [Editor's Copy](https://liqi16.github.io/draft-li-sidrops-vro/#go.draft-li-sidrops-vro.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-li-sidrops-vro)
@@ -9,7 +11,7 @@
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/liqi16/draft-li-sidrops-vro/blob//CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/liqi16/draft-li-sidrops-vro/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.
