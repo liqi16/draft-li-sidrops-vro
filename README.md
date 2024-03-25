@@ -1,6 +1,4 @@
-# TODO - Your title
-
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+# VRO Draft
 
 * [Editor's Copy](https://liqi16.github.io/draft-li-sidrops-vro/#go.draft-li-sidrops-vro.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-li-sidrops-vro)
