@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-06-18T00:13:00.258971+00:00",
+  "timestamp": "2024-06-20T00:12:37.077140+00:00",
   "repo": "liqi16/draft-li-sidrops-vro",
   "labels": [
     {
@@ -76,6 +76,32 @@
       "mergeCommit": {
         "oid": "9278545ed1d91891b0a387ae09a43f7ae8765343"
       },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOLlF78s5yyA53",
+      "title": "Update draft-li-sidrops-vro.md",
+      "url": "https://github.com/liqi16/draft-li-sidrops-vro/pull/2",
+      "state": "OPEN",
+      "author": "liqi16",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2024-06-18T05:57:23Z",
+      "updatedAt": "2024-06-18T05:57:23Z",
+      "baseRepository": "liqi16/draft-li-sidrops-vro",
+      "baseRefName": "main",
+      "baseRefOid": "fd912bd6bbc76e40ccbc427bee3edcd9650854d9",
+      "headRepository": "liqi16/draft-li-sidrops-vro",
+      "headRefName": "liqi16-v0",
+      "headRefOid": "85dc1eaa06d49d01e68caab6b8a95a73cf1d8f75",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
       "comments": [],
       "reviews": []
     }
